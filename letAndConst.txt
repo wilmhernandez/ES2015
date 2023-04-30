@@ -1,0 +1,9 @@
+const PI = 3.14
+
+Var is functioned scoped and can be reassigned. Let is block scoped and cannot be redeclared.
+
+Const is blocked scoped and cannot be reassigned or redeclared.
+
+The difference between let and const is let can be reassigned.
+
+Hoisting is where variables are lifted to the top of their scope. Var can access the variable and the undefined value before it is used.
